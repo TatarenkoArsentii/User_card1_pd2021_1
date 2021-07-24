@@ -2,3 +2,22 @@
     margin: 0;
     padding: 0;
 }
+
+.user_card {
+    width: 400px;
+    height: 400px;
+    background-color: violet;
+    border-radius: 5px;
+}
+
+.user_info {
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+}
+
+.user_img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
